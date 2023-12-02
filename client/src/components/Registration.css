@@ -1,0 +1,33 @@
+.registration-container {
+    width: 300px;
+    margin: 0 auto;
+    border: 2 rgb(59, 109, 158);
+}
+
+.registration-title {
+    text-align: center;
+}
+
+.registration-form {
+    margin-bottom: 10px;
+
+}
+
+.registration-label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.registration-input {
+    width: 100%;
+    padding: 5px;
+}
+
+.registration-button {
+    display: block;
+    margin: 0 auto;
+}
+
+.registration-login {
+    text-align: center;
+}
